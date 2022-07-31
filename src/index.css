@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,100&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient{
+    background: linear-gradient(180deg, rgba(100, 125, 238, 0.3) 0%, rgba(127, 83, 172, 0) 100%), #000000;
+}
+.gradient1{
+    background-color: #1D2444;
+}
